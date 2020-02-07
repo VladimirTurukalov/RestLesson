@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0",
+        "name": "Caerham",
+        "color": ["black"]
+    },
+    {
+        "id": "1",
+        "name": "Honda",
+        "color": ["black"]
+    },
+    {
+        "id": "2",
+        "name": "Tesla",
+        "color": ["red"]
+    },
+    {
+        "id": "3",
+        "name": "Dodge",
+        "color": ["red", "black"]
+    }
+]

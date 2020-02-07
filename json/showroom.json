@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "name": "Show room 1",
+        "cars": ["0", "1"]
+    },
+    {
+        "id": "1",
+        "name": "Show room 2",
+        "cars": ["2", "3"]
+    },
+    {
+        "id": "2",
+        "name": "Show room 3",
+        "cars": ["1", "2"]
+    }
+]
